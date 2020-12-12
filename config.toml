@@ -25,7 +25,7 @@ pygmentsUseClasses = false
 pygmentsUseClassic = false
 #pygmentsOptions = "linenos=table"
 # See https://help.farbox.com/pygments.html
-pygmentsStyle = "tango"
+pygmentsStyle = "native"
 
 # Configure how URLs look like per section.
 [permalinks]
@@ -80,7 +80,7 @@ time_format_blog = "02.01.2006"
 
 # Comment out if you don't want the "print entire section" link enabled.
 [outputs]
-section = ["HTML", "print"]
+section = ["HTML"]
 
 [params]
 copyright = "Ivan Cheban —"
